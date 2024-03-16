@@ -1,0 +1,8 @@
+{
+    "name": "Stormunblessed's Extensions",
+    "description": "This Repo Contains Audio Books And More",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Stormunblessed/kronch-ext/builds/plugins.json"
+    ]
+  }
